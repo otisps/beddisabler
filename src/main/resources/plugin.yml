@@ -1,0 +1,7 @@
+name: Beddisabler
+version: '${project.version}'
+main: technology.otis.beddisabler.Beddisabler
+api-version: 1.18
+authors: [ otisps ]
+description: Disables beds during the day (when the weather is clear)
+website: spigot.otis.technology
